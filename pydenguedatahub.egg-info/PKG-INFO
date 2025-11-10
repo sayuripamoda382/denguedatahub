@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: pydenguedatahub
+Version: 0.1.0
+Summary: Python package to access and visualize dengue data from multiple countries
+Author: Sayuri Pamoda
+License: MIT
+Project-URL: Homepage, https://github.com/sayuripamoda382/pydenguedatahub
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pandas>=2.0
+Requires-Dist: matplotlib>=3.10
+Requires-Dist: seaborn>=0.13
+Dynamic: license-file

@@ -1,0 +1,433 @@
+"area","type","year","additional_information","value"
+"Andhra Pradesh","cases","2017",NA,4925
+"Andhra Pradesh","deaths","2017",NA,0
+"Andhra Pradesh","cases","2018",NA,4011
+"Andhra Pradesh","deaths","2018",NA,0
+"Andhra Pradesh","cases","2019",NA,5286
+"Andhra Pradesh","deaths","2019",NA,0
+"Andhra Pradesh","cases","2020",NA,925
+"Andhra Pradesh","deaths","2020",NA,0
+"Andhra Pradesh","cases","2021",NA,4760
+"Andhra Pradesh","deaths","2021",NA,0
+"Andhra Pradesh","cases","2022","till31stOct",4754
+"Andhra Pradesh","deaths","2022","till31stOct",0
+"Arunachal Pradesh","cases","2017",NA,18
+"Arunachal Pradesh","deaths","2017",NA,0
+"Arunachal Pradesh","cases","2018",NA,1
+"Arunachal Pradesh","deaths","2018",NA,0
+"Arunachal Pradesh","cases","2019",NA,123
+"Arunachal Pradesh","deaths","2019",NA,0
+"Arunachal Pradesh","cases","2020",NA,1
+"Arunachal Pradesh","deaths","2020",NA,0
+"Arunachal Pradesh","cases","2021",NA,7
+"Arunachal Pradesh","deaths","2021",NA,0
+"Arunachal Pradesh","cases","2022","till31stOct",163
+"Arunachal Pradesh","deaths","2022","till31stOct",0
+"Assam","cases","2017",NA,5024
+"Assam","deaths","2017",NA,1
+"Assam","cases","2018",NA,166
+"Assam","deaths","2018",NA,0
+"Assam","cases","2019",NA,196
+"Assam","deaths","2019",NA,0
+"Assam","cases","2020",NA,33
+"Assam","deaths","2020",NA,0
+"Assam","cases","2021",NA,103
+"Assam","deaths","2021",NA,0
+"Assam","cases","2022","till31stOct",191
+"Assam","deaths","2022","till31stOct",0
+"Bihar","cases","2017",NA,1854
+"Bihar","deaths","2017",NA,0
+"Bihar","cases","2018",NA,2142
+"Bihar","deaths","2018",NA,0
+"Bihar","cases","2019",NA,6712
+"Bihar","deaths","2019",NA,0
+"Bihar","cases","2020",NA,493
+"Bihar","deaths","2020",NA,2
+"Bihar","cases","2021",NA,633
+"Bihar","deaths","2021",NA,2
+"Bihar","cases","2022","till31stOct",9374
+"Bihar","deaths","2022","till31stOct",7
+"Chattisgarh","cases","2017",NA,444
+"Chattisgarh","deaths","2017",NA,0
+"Chattisgarh","cases","2018",NA,2674
+"Chattisgarh","deaths","2018",NA,10
+"Chattisgarh","cases","2019",NA,722
+"Chattisgarh","deaths","2019",NA,0
+"Chattisgarh","cases","2020",NA,57
+"Chattisgarh","deaths","2020",NA,0
+"Chattisgarh","cases","2021",NA,1086
+"Chattisgarh","deaths","2021",NA,0
+"Chattisgarh","cases","2022","till31stOct",2436
+"Chattisgarh","deaths","2022","till31stOct",0
+"Goa","cases","2017",NA,235
+"Goa","deaths","2017",NA,0
+"Goa","cases","2018",NA,335
+"Goa","deaths","2018",NA,1
+"Goa","cases","2019",NA,992
+"Goa","deaths","2019",NA,0
+"Goa","cases","2020",NA,376
+"Goa","deaths","2020",NA,0
+"Goa","cases","2021",NA,649
+"Goa","deaths","2021",NA,0
+"Goa","cases","2022","till31stOct",429
+"Goa","deaths","2022","till31stOct",0
+"Gujarat","cases","2017",NA,4753
+"Gujarat","deaths","2017",NA,6
+"Gujarat","cases","2018",NA,7579
+"Gujarat","deaths","2018",NA,5
+"Gujarat","cases","2019",NA,18219
+"Gujarat","deaths","2019",NA,17
+"Gujarat","cases","2020",NA,1564
+"Gujarat","deaths","2020",NA,2
+"Gujarat","cases","2021",NA,10983
+"Gujarat","deaths","2021",NA,14
+"Gujarat","cases","2022","till31stOct",4811
+"Gujarat","deaths","2022","till31stOct",2
+"Haryana","cases","2017",NA,4550
+"Haryana","deaths","2017",NA,0
+"Haryana","cases","2018",NA,1898
+"Haryana","deaths","2018",NA,0
+"Haryana","cases","2019",NA,1207
+"Haryana","deaths","2019",NA,0
+"Haryana","cases","2020",NA,1377
+"Haryana","deaths","2020",NA,0
+"Haryana","cases","2021",NA,11835
+"Haryana","deaths","2021",NA,13
+"Haryana","cases","2022","till31stOct",4551
+"Haryana","deaths","2022","till31stOct",12
+"Himachal Pradesh","cases","2017",NA,452
+"Himachal Pradesh","deaths","2017",NA,0
+"Himachal Pradesh","cases","2018",NA,4672
+"Himachal Pradesh","deaths","2018",NA,7
+"Himachal Pradesh","cases","2019",NA,344
+"Himachal Pradesh","deaths","2019",NA,2
+"Himachal Pradesh","cases","2020",NA,21
+"Himachal Pradesh","deaths","2020",NA,0
+"Himachal Pradesh","cases","2021",NA,349
+"Himachal Pradesh","deaths","2021",NA,0
+"Himachal Pradesh","cases","2022","till31stOct",2563
+"Himachal Pradesh","deaths","2022","till31stOct",0
+"J & K","cases","2017",NA,488
+"J & K","deaths","2017",NA,0
+"J & K","cases","2018",NA,214
+"J & K","deaths","2018",NA,0
+"J & K","cases","2019",NA,439
+"J & K","deaths","2019",NA,0
+"J & K","cases","2020",NA,53
+"J & K","deaths","2020",NA,0
+"J & K","cases","2021",NA,1709
+"J & K","deaths","2021",NA,4
+"J & K","cases","2022","till31stOct",4927
+"J & K","deaths","2022","till31stOct",10
+"Jharkhand","cases","2017",NA,710
+"Jharkhand","deaths","2017",NA,5
+"Jharkhand","cases","2018",NA,463
+"Jharkhand","deaths","2018",NA,1
+"Jharkhand","cases","2019",NA,825
+"Jharkhand","deaths","2019",NA,0
+"Jharkhand","cases","2020",NA,79
+"Jharkhand","deaths","2020",NA,0
+"Jharkhand","cases","2021",NA,220
+"Jharkhand","deaths","2021",NA,1
+"Jharkhand","cases","2022","till31stOct",123
+"Jharkhand","deaths","2022","till31stOct",0
+"Karnataka","cases","2017",NA,17844
+"Karnataka","deaths","2017",NA,10
+"Karnataka","cases","2018",NA,4427
+"Karnataka","deaths","2018",NA,4
+"Karnataka","cases","2019",NA,16986
+"Karnataka","deaths","2019",NA,13
+"Karnataka","cases","2020",NA,3823
+"Karnataka","deaths","2020",NA,0
+"Karnataka","cases","2021",NA,7393
+"Karnataka","deaths","2021",NA,7
+"Karnataka","cases","2022","till31stOct",7317
+"Karnataka","deaths","2022","till31stOct",4
+"Kerala","cases","2017",NA,19994
+"Kerala","deaths","2017",NA,37
+"Kerala","cases","2018",NA,4083
+"Kerala","deaths","2018",NA,32
+"Kerala","cases","2019",NA,4652
+"Kerala","deaths","2019",NA,16
+"Kerala","cases","2020",NA,4399
+"Kerala","deaths","2020",NA,5
+"Kerala","cases","2021",NA,3251
+"Kerala","deaths","2021",NA,27
+"Kerala","cases","2022","till31stOct",3446
+"Kerala","deaths","2022","till31stOct",24
+"Lakshadweep","cases","2017",NA,0
+"Lakshadweep","deaths","2017",NA,0
+"Lakshadweep","cases","2018",NA,0
+"Lakshadweep","deaths","2018",NA,0
+"Lakshadweep","cases","2019",NA,0
+"Lakshadweep","deaths","2019",NA,0
+"Lakshadweep","cases","2020",NA,0
+"Lakshadweep","deaths","2020",NA,0
+"Lakshadweep","cases","2021",NA,1
+"Lakshadweep","deaths","2021",NA,0
+"Lakshadweep","cases","2022","till31stOct",56
+"Lakshadweep","deaths","2022","till31stOct",0
+"Madhya Pradesh","cases","2017",NA,2666
+"Madhya Pradesh","deaths","2017",NA,6
+"Madhya Pradesh","cases","2018",NA,4506
+"Madhya Pradesh","deaths","2018",NA,5
+"Madhya Pradesh","cases","2019",NA,4189
+"Madhya Pradesh","deaths","2019",NA,2
+"Madhya Pradesh","cases","2020",NA,806
+"Madhya Pradesh","deaths","2020",NA,0
+"Madhya Pradesh","cases","2021",NA,15592
+"Madhya Pradesh","deaths","2021",NA,11
+"Madhya Pradesh","cases","2022","till31stOct",1669
+"Madhya Pradesh","deaths","2022","till31stOct",0
+"Meghalaya","cases","2017",NA,52
+"Meghalaya","deaths","2017",NA,0
+"Meghalaya","cases","2018",NA,44
+"Meghalaya","deaths","2018",NA,0
+"Meghalaya","cases","2019",NA,82
+"Meghalaya","deaths","2019",NA,0
+"Meghalaya","cases","2020",NA,4
+"Meghalaya","deaths","2020",NA,0
+"Meghalaya","cases","2021",NA,129
+"Meghalaya","deaths","2021",NA,0
+"Meghalaya","cases","2022","till31stOct",15
+"Meghalaya","deaths","2022","till31stOct",0
+"Maharashtra","cases","2017",NA,7829
+"Maharashtra","deaths","2017",NA,65
+"Maharashtra","cases","2018",NA,11011
+"Maharashtra","deaths","2018",NA,55
+"Maharashtra","cases","2019",NA,14907
+"Maharashtra","deaths","2019",NA,29
+"Maharashtra","cases","2020",NA,3356
+"Maharashtra","deaths","2020",NA,10
+"Maharashtra","cases","2021",NA,12720
+"Maharashtra","deaths","2021",NA,42
+"Maharashtra","cases","2022","till31stOct",6330
+"Maharashtra","deaths","2022","till31stOct",5
+"Manipur","cases","2017",NA,193
+"Manipur","deaths","2017",NA,1
+"Manipur","cases","2018",NA,14
+"Manipur","deaths","2018",NA,0
+"Manipur","cases","2019",NA,359
+"Manipur","deaths","2019",NA,0
+"Manipur","cases","2020",NA,37
+"Manipur","deaths","2020",NA,0
+"Manipur","cases","2021",NA,203
+"Manipur","deaths","2021",NA,0
+"Manipur","cases","2022","till31stOct",313
+"Manipur","deaths","2022","till31stOct",2
+"Mizoram","cases","2017",NA,136
+"Mizoram","deaths","2017",NA,0
+"Mizoram","cases","2018",NA,68
+"Mizoram","deaths","2018",NA,0
+"Mizoram","cases","2019",NA,42
+"Mizoram","deaths","2019",NA,0
+"Mizoram","cases","2020",NA,67
+"Mizoram","deaths","2020",NA,0
+"Mizoram","cases","2021",NA,83
+"Mizoram","deaths","2021",NA,0
+"Mizoram","cases","2022","till31stOct",437
+"Mizoram","deaths","2022","till31stOct",0
+"Nagaland","cases","2017",NA,357
+"Nagaland","deaths","2017",NA,0
+"Nagaland","cases","2018",NA,369
+"Nagaland","deaths","2018",NA,0
+"Nagaland","cases","2019",NA,8
+"Nagaland","deaths","2019",NA,0
+"Nagaland","cases","2020",NA,1
+"Nagaland","deaths","2020",NA,0
+"Nagaland","cases","2021",NA,24
+"Nagaland","deaths","2021",NA,0
+"Nagaland","cases","2022","till31stOct",68
+"Nagaland","deaths","2022","till31stOct",0
+"Odisha","cases","2017",NA,4158
+"Odisha","deaths","2017",NA,6
+"Odisha","cases","2018",NA,5198
+"Odisha","deaths","2018",NA,5
+"Odisha","cases","2019",NA,3758
+"Odisha","deaths","2019",NA,4
+"Odisha","cases","2020",NA,496
+"Odisha","deaths","2020",NA,0
+"Odisha","cases","2021",NA,7548
+"Odisha","deaths","2021",NA,0
+"Odisha","cases","2022","till31stOct",5728
+"Odisha","deaths","2022","till31stOct",0
+"Punjab","cases","2017",NA,15398
+"Punjab","deaths","2017",NA,18
+"Punjab","cases","2018",NA,14980
+"Punjab","deaths","2018",NA,9
+"Punjab","cases","2019",NA,10289
+"Punjab","deaths","2019",NA,14
+"Punjab","cases","2020",NA,8435
+"Punjab","deaths","2020",NA,22
+"Punjab","cases","2021",NA,23389
+"Punjab","deaths","2021",NA,55
+"Punjab","cases","2022","till31stOct",5139
+"Punjab","deaths","2022","till31stOct",5
+"Rajasthan","cases","2017",NA,8427
+"Rajasthan","deaths","2017",NA,14
+"Rajasthan","cases","2018",NA,9587
+"Rajasthan","deaths","2018",NA,10
+"Rajasthan","cases","2019",NA,13706
+"Rajasthan","deaths","2019",NA,17
+"Rajasthan","cases","2020",NA,2023
+"Rajasthan","deaths","2020",NA,7
+"Rajasthan","cases","2021",NA,20749
+"Rajasthan","deaths","2021",NA,96
+"Rajasthan","cases","2022","till31stOct",9283
+"Rajasthan","deaths","2022","till31stOct",6
+"Sikkim","cases","2017",NA,312
+"Sikkim","deaths","2017",NA,0
+"Sikkim","cases","2018",NA,320
+"Sikkim","deaths","2018",NA,0
+"Sikkim","cases","2019",NA,444
+"Sikkim","deaths","2019",NA,0
+"Sikkim","cases","2020",NA,11
+"Sikkim","deaths","2020",NA,0
+"Sikkim","cases","2021",NA,243
+"Sikkim","deaths","2021",NA,1
+"Sikkim","cases","2022","till31stOct",209
+"Sikkim","deaths","2022","till31stOct",0
+"Tamil Nadu","cases","2017",NA,23294
+"Tamil Nadu","deaths","2017",NA,65
+"Tamil Nadu","cases","2018",NA,4486
+"Tamil Nadu","deaths","2018",NA,13
+"Tamil Nadu","cases","2019",NA,8527
+"Tamil Nadu","deaths","2019",NA,5
+"Tamil Nadu","cases","2020",NA,2410
+"Tamil Nadu","deaths","2020",NA,0
+"Tamil Nadu","cases","2021",NA,6039
+"Tamil Nadu","deaths","2021",NA,8
+"Tamil Nadu","cases","2022","till31stOct",4771
+"Tamil Nadu","deaths","2022","till31stOct",4
+"Tripura","cases","2017",NA,127
+"Tripura","deaths","2017",NA,0
+"Tripura","cases","2018",NA,100
+"Tripura","deaths","2018",NA,0
+"Tripura","cases","2019",NA,114
+"Tripura","deaths","2019",NA,0
+"Tripura","cases","2020",NA,24
+"Tripura","deaths","2020",NA,0
+"Tripura","cases","2021",NA,349
+"Tripura","deaths","2021",NA,0
+"Tripura","cases","2022","till31stOct",44
+"Tripura","deaths","2022","till31stOct",0
+"Telangana","cases","2017",NA,5369
+"Telangana","deaths","2017",NA,0
+"Telangana","cases","2018",NA,4592
+"Telangana","deaths","2018",NA,2
+"Telangana","cases","2019",NA,13331
+"Telangana","deaths","2019",NA,7
+"Telangana","cases","2020",NA,2173
+"Telangana","deaths","2020",NA,0
+"Telangana","cases","2021",NA,7135
+"Telangana","deaths","2021",NA,0
+"Telangana","cases","2022","till31stOct",13091
+"Telangana","deaths","2022","till31stOct",0
+"Uttar Pradesh","cases","2017",NA,3092
+"Uttar Pradesh","deaths","2017",NA,28
+"Uttar Pradesh","cases","2018",NA,3829
+"Uttar Pradesh","deaths","2018",NA,4
+"Uttar Pradesh","cases","2019",NA,10557
+"Uttar Pradesh","deaths","2019",NA,26
+"Uttar Pradesh","cases","2020",NA,3715
+"Uttar Pradesh","deaths","2020",NA,6
+"Uttar Pradesh","cases","2021",NA,29750
+"Uttar Pradesh","deaths","2021",NA,29
+"Uttar Pradesh","cases","2022","till31stOct",6758
+"Uttar Pradesh","deaths","2022","till31stOct",1
+"Uttrakhand","cases","2017",NA,849
+"Uttrakhand","deaths","2017",NA,0
+"Uttrakhand","cases","2018",NA,689
+"Uttrakhand","deaths","2018",NA,3
+"Uttrakhand","cases","2019",NA,10622
+"Uttrakhand","deaths","2019",NA,8
+"Uttrakhand","cases","2020",NA,76
+"Uttrakhand","deaths","2020",NA,1
+"Uttrakhand","cases","2021",NA,738
+"Uttrakhand","deaths","2021",NA,2
+"Uttrakhand","cases","2022","till31stOct",1878
+"Uttrakhand","deaths","2022","till31stOct",0
+"West Bengal","cases","2017",NA,37746
+"West Bengal","deaths","2017",NA,46
+"West Bengal","cases","2018",NA,NA
+"West Bengal","deaths","2018",NA,NA
+"West Bengal","cases","2019",NA,NA
+"West Bengal","deaths","2019",NA,NA
+"West Bengal","cases","2020",NA,5166
+"West Bengal","deaths","2020",NA,0
+"West Bengal","cases","2021",NA,8264
+"West Bengal","deaths","2021",NA,7
+"West Bengal","cases","2022","till31stOct",1753
+"West Bengal","deaths","2022","till31stOct",3
+"A& N Island","cases","2017",NA,18
+"A& N Island","deaths","2017",NA,0
+"A& N Island","cases","2018",NA,49
+"A& N Island","deaths","2018",NA,0
+"A& N Island","cases","2019",NA,168
+"A& N Island","deaths","2019",NA,0
+"A& N Island","cases","2020",NA,98
+"A& N Island","deaths","2020",NA,0
+"A& N Island","cases","2021",NA,175
+"A& N Island","deaths","2021",NA,0
+"A& N Island","cases","2022","till31stOct",982
+"A& N Island","deaths","2022","till31stOct",0
+"Chandigarh","cases","2017",NA,1125
+"Chandigarh","deaths","2017",NA,0
+"Chandigarh","cases","2018",NA,301
+"Chandigarh","deaths","2018",NA,0
+"Chandigarh","cases","2019",NA,286
+"Chandigarh","deaths","2019",NA,0
+"Chandigarh","cases","2020",NA,265
+"Chandigarh","deaths","2020",NA,0
+"Chandigarh","cases","2021",NA,1596
+"Chandigarh","deaths","2021",NA,3
+"Chandigarh","cases","2022","till31stOct",623
+"Chandigarh","deaths","2022","till31stOct",0
+"Delhi","cases","2017",NA,9271
+"Delhi","deaths","2017",NA,10
+"Delhi","cases","2018",NA,7136
+"Delhi","deaths","2018",NA,4
+"Delhi","cases","2019",NA,5077
+"Delhi","deaths","2019",NA,0
+"Delhi","cases","2020",NA,1269
+"Delhi","deaths","2020",NA,0
+"Delhi","cases","2021",NA,13089
+"Delhi","deaths","2021",NA,23
+"Delhi","cases","2022","till31stOct",4609
+"Delhi","deaths","2022","till31stOct",0
+"D&N Haveli","cases","2017",NA,2064
+"D&N Haveli","deaths","2017",NA,0
+"D&N Haveli","cases","2018",NA,493
+"D&N Haveli","deaths","2018",NA,0
+"D&N Haveli","cases","2019",NA,1491
+"D&N Haveli","deaths","2019",NA,2
+"D&N Haveli","cases","2020",NA,248
+"D&N Haveli","deaths","2020",NA,0
+"D&N Haveli","cases","2021",NA,547
+"D&N Haveli","deaths","2021",NA,0
+"D&N Haveli","cases","2022","till31stOct",511
+"D&N Haveli","deaths","2022","till31stOct",0
+"Daman & Diu","cases","2017",NA,59
+"Daman & Diu","deaths","2017",NA,0
+"Daman & Diu","cases","2018",NA,163
+"Daman & Diu","deaths","2018",NA,0
+"Daman & Diu","cases","2019",NA,625
+"Daman & Diu","deaths","2019",NA,2
+"Daman & Diu","cases","2020",NA,71
+"Daman & Diu","deaths","2020",NA,0
+"Daman & Diu","cases","2021",NA,279
+"Daman & Diu","deaths","2021",NA,0
+"Daman & Diu","cases","2022","till31stOct",156
+"Daman & Diu","deaths","2022","till31stOct",0
+"Puduchery","cases","2017",NA,4568
+"Puduchery","deaths","2017",NA,7
+"Puduchery","cases","2018",NA,592
+"Puduchery","deaths","2018",NA,2
+"Puduchery","cases","2019",NA,2030
+"Puduchery","deaths","2019",NA,2
+"Puduchery","cases","2020",NA,633
+"Puduchery","deaths","2020",NA,1
+"Puduchery","cases","2021",NA,1625
+"Puduchery","deaths","2021",NA,1
+"Puduchery","cases","2022","till31stOct",827
+"Puduchery","deaths","2022","till31stOct",1

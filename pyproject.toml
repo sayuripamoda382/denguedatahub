@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=65.5.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pydenguedatahub"
+version = "0.1.0"
+description = "Python package to access and visualize dengue data from multiple countries"
+authors = [{name="Sayuri Pamoda"}]
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.10"
+
+dependencies = [
+    "pandas>=2.0",
+    "matplotlib>=3.10",
+    "seaborn>=0.13"
+]
+
+[tool.setuptools.package-data]
+"pydenguedatahub" = ["data/*.csv"]
+
+[project.urls]
+Homepage = "https://github.com/sayuripamoda382/pydenguedatahub"
